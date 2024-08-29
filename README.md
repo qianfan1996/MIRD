@@ -1,5 +1,6 @@
 # MIRD
 Mutual Information Representations Disentanglement
+
 ![](https://github.com/qianfan1996/MIRD/tree/main/imgs/framework.jpg)
 ## First install the packages by the following code:
 ```
